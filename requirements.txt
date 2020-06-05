@@ -10,7 +10,7 @@ command-not-found==0.3
 configobj==5.0.6
 cupshelpers==1.0
 defer==1.0.6
-Django==2.2.2
+Django==2.2.13
 enum34==1.1.6
 gast==0.2.2
 get==2019.4.13
